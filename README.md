@@ -1,4 +1,4 @@
-# Ios Calculator
+# Animation
 
 ![gif](./Animation.gif)
 
